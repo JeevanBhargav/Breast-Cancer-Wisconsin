@@ -1,6 +1,6 @@
 # Jeevan's Portfolio
 
-# Project 1: Breast Cancer Wisconsin (Diagnostic) Data Set - Predict whether the cancer is benign or malignant
+# Breast Cancer Wisconsin (Diagnostic) Data Set - Predict whether the cancer is benign or malignant
 
 This is a project for my Principle of Data Management and Mining class, where I worked on the breast-cancer-wisconsin.csv dataset to predict whether a breast cancer instance is benign or malignant.
 
